@@ -1,0 +1,6 @@
+C:\Windows Programming\Lesson2\Excercise1\bin\Debug\Excercise1.exe.config
+C:\Windows Programming\Lesson2\Excercise1\bin\Debug\Excercise1.exe
+C:\Windows Programming\Lesson2\Excercise1\bin\Debug\Excercise1.pdb
+C:\Windows Programming\Lesson2\Excercise1\obj\Debug\Excercise1.csprojResolveAssemblyReference.cache
+C:\Windows Programming\Lesson2\Excercise1\obj\Debug\Excercise1.exe
+C:\Windows Programming\Lesson2\Excercise1\obj\Debug\Excercise1.pdb

@@ -1,0 +1,5 @@
+C:\Windows Programming\Lesson2\Excercise4\bin\Debug\Excercise4.exe.config
+C:\Windows Programming\Lesson2\Excercise4\bin\Debug\Excercise4.exe
+C:\Windows Programming\Lesson2\Excercise4\bin\Debug\Excercise4.pdb
+C:\Windows Programming\Lesson2\Excercise4\obj\Debug\Excercise4.exe
+C:\Windows Programming\Lesson2\Excercise4\obj\Debug\Excercise4.pdb
